@@ -1,1 +1,0 @@
-This is my long time desire to learn Git and version control.
